@@ -37,5 +37,5 @@ Includes inpatient diabetes encounters and whether the patient was readmitted wi
 - Use dashboard filtering (age, gender, diabetes medication) to quickly identify high-risk cohorts for care management workflows
 
 ## Dashboard Preview
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](diabetes_project_overview.png)
 
