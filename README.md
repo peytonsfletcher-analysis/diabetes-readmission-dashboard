@@ -25,3 +25,17 @@ Includes inpatient diabetes encounters and whether the patient was readmitted wi
 - Cleaned dataset for Power BI
 - SQL queries for reporting
 - Dashboard screenshots
+
+## Key Results (Summary)
+- Readmission risk varies across clinical subgroups, including HbA1c categories and length of stay
+- Longer hospital stays generally show higher readmission rates
+- Age group breakdown highlights patient segments that may benefit from targeted discharge planning
+
+## Recommendations
+- Prioritize follow-up outreach for patients with higher readmission risk signals (e.g., longer length of stay and abnormal HbA1c results)
+- Monitor readmission rates by HbA1c category to support diabetes quality improvement initiatives
+- Use dashboard filtering (age, gender, diabetes medication) to quickly identify high-risk cohorts for care management workflows
+
+## Dashboard Preview
+![Dashboard Overview](diabetes_dashboard_overview.png)
+
